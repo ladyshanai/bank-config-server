@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ladyshanai/bank-config-server.git
+          uri: https://github.com/ladyshanai/bank-config-repo.git
           default-label: main
 
 server:
